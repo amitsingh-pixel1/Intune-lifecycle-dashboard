@@ -1,0 +1,21 @@
+# Reports output
+reports/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Intune exports (user data - never commit)
+*.csv
+*.zip
+!screenshots/*.png
